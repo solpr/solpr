@@ -1,4 +1,4 @@
-### Hi there, I'm Solomon Araya solomong.araya@gmail.com 👋 
+### Hi there, I'm Solomon Araya  👋 
 
 
 
@@ -9,14 +9,16 @@
 - 🥅 2022 Goals: to get a job in Data Science / Data Analtycs / Machien Learning Enginner ... 
 - 🌱 
 
-### Connect with me in linkedin :
-[<img align="left" alt="solomon-g-araya-3a05567a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me via :
+solomong.araya@gmail.com
 https://www.linkedin.com/in/solomon-g-araya-3a05567a/
 
 <br />
 
 ### Languages and Tools:
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)]
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)]
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
