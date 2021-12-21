@@ -10,7 +10,7 @@
 - 🌱 
 
 ### Connect with me in linkedin :
-[<img align="left" alt="solpr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Solomon G. Araya" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
