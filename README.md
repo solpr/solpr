@@ -4,9 +4,9 @@
 
 ## Motivated agronomist and currently a Data Science student seeking a job / internship in a related discipline as a junior position to gain hands-on experience.!!
 
-- ⚡ I’m currently learning everything 🤣
+- ⚡ I’m currently learning new things 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: to get a job in Data Science / Data Analtycs / Machien Learning Enginner ... 
+- 🥅 2022 Goals: to get a job in Data Science / Data Analytics / Machine Learning Engineer ... 
 - 🌱 
 
 ### Connect with me via :
