@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently learning new things 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: to get a job in Data Science / Data Analytics / Machine Learning Engineer ... 
+- 🥅 2022 Goals:  ...................... Data Science / Data Analytics / Machine Learning Engineer ... 
 - 🌱 
 
 ### Connect with me via :
