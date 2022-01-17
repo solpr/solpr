@@ -2,7 +2,7 @@
 
 
 
-## Motivated agronomist and currently a Data Science student seeking a job / internship in a related discipline as a junior position to gain hands-on experience.!!
+## Data driven agronomist and want to solve agricltural and other problems based on data.!!
 
 - ⚡ I’m currently learning new things 🤣
 - 👯 I’m looking to collaborate with other content creators
