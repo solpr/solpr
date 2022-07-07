@@ -2,7 +2,7 @@
 
 
 
-## Data driven agronomist and want to solve agricultural and other problems based on data.!!
+## Data driven scientist who wants to solve different problems based on data.!!
 
 - ⚡ I’m currently learning new things 🤣
 - 👯 I’m looking to collaborate with other content creators
